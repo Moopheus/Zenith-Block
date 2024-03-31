@@ -1,3 +1,5 @@
+chrome.runtime.onStartup.addListener(function() {
+});
 chrome.webRequest.onBeforeRequest.addListener(
   function(details) { 
     // console.log(details)
