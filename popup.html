@@ -1,0 +1,10 @@
+<html>
+  <body>
+    <h1>Ads Blocked: <span id="number"></span></h1>
+    <script>
+      adsStopped = localStorage.getItem("adsBlocked");
+      span = document.querySelector("#number");
+      span.textContent = adsStopped;
+    </script>
+  </body>
+</html>
