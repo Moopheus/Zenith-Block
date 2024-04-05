@@ -7,7 +7,7 @@
     "scripts": ["background.js"]
   },
   "action": {
-    "default_popup": "index.html",
+    "default_popup": "popup.html",
     "default_icon": "blocked.png"
   }
   "manifest_version": 2
