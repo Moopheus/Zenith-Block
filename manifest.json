@@ -1,6 +1,6 @@
 {
   "name": "Zenith Block",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "version": "1.0",
   "description": "Chrome URL Blocking Extension",
   "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
